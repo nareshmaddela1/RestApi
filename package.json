@@ -1,6 +1,6 @@
 {
-  "name": "RestApi",
-  "version": "0.0.0",
+  "name": "mysqlid",
+  "version": "SQL Server 2017 Standard BETA	",
   "description": "testing the sql",
   "main": "server.js",
     "dependencies": {
