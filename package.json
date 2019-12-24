@@ -1,12 +1,12 @@
 {
-  "name": "RestApi",//e.g.  – node_app
+  "name": "RestApi",
   "version": "0.0.0",
-  "description": "<Description about your application>",
+  "description": "testing the sql",
   "main": "server.js",
     "dependencies": {
         "express": "^4.14.0",
         "body-parser": "^1.15.2",
-         “mssql”:”^ 3.3.0”
+         “mssql”: "^ 3.3.0"
     },
     "scripts": {
     "start": "node server.js"
