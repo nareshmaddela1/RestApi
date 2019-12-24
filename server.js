@@ -24,10 +24,10 @@ app.use(function (req, res, next) {
 
 //Initiallising connection string
 var dbConfig = {
-    user:  “sqlserver”,
+    user:  “pipeline”,
     password: “123456”,
-    server: “adminproject-262516:us-west1:mysqlid”,
-    database: "mysqlid"
+    server: “learnkubernetescluster:us-west1:pipeline”,
+    database: "pipeline"
 };
 
 //Function to connect to database and execute query
