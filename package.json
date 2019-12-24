@@ -6,7 +6,7 @@
     "dependencies": {
         "express": "^4.14.0",
         "body-parser": "^1.15.2",
-         “mssql”: "^ 3.3.0"
+         "mssql": "^ 3.3.0"
     },
     "scripts": {
     "start": "node server.js"
